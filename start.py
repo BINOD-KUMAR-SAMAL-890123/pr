@@ -10,5 +10,5 @@ def palindrome(word):
 print(palindrome("biib"))
 
 
-def square:
+def square(num):
   return num**2
