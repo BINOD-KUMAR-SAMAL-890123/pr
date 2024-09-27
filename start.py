@@ -7,4 +7,8 @@ else:
     
 def palindrome(word):
     return word == word[::-1]
-print(palindrome("bibi"))
+print(palindrome("biib"))
+
+
+def square:
+  return num**2
